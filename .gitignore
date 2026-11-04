@@ -31,3 +31,6 @@ nbproject/private/
 
 # Datos de conexión (no subir)
 config.properties
+
+# Maven
+target/
